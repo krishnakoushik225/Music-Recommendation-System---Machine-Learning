@@ -11,3 +11,6 @@ Based on:
 3. Both Artist, Genre and song meta data
 
 In that way, this model can produce 3 types of different recommendations.
+
+
+This Recommendation System helps in getting the suitable Recommendations at our individual Intererst.
