@@ -2,6 +2,8 @@
 
 This is an Unsupervised Machine Learning Model which was built using Cosine Similarity Rule.
 
+Dataset used: https://www.kaggle.com/iamsumat/spotify-top-2000s-mega-dataset
+
 It's an Explainable Recommendation Sytem which can explain the explicit reason for the recomendations provided by itself
 
 Things in the Project:
