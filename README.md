@@ -4,6 +4,18 @@ This is an Unsupervised Machine Learning Model which was built using Cosine Simi
 
 It's an Explainable Recommendation Sytem which can explain the explicit reason for the recomendations provided by itself
 
+Things in the Project:
+
+* Exploratory Data Analysis
+
+* Preprocessing
+
+* Visualization
+
+* Unsupervised Model Building
+
+
+
 It can produce 3 kinds of music recommendations. 
 Based on: 
 1. Artist, Genre
